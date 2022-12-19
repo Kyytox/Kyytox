@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Kyytox, developer of things and others
 <br>
 Minimalist Bitcoin
-
+<br><br>
 
 
 ![alt text](https://img.shields.io/static/v1?label=&message=Bitcoin&color=yellow)
