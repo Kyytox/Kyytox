@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-test
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyytox)](https://github.com/anuraghazra/github-readme-stats)
