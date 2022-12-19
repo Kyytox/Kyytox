@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## I'm Kyytox, developer of things and others
+
+## Minimalist Bitcoin 
+
+[(https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)]
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyytox&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz)](https://github.com/Kyytox/bitcoin_quizz)
