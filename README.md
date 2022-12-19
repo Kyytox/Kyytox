@@ -29,6 +29,19 @@ Minimalist Bitcoin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyytox&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+[![alt text](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark)](https://github.com/Kyytox/bitcoin_quizz)
+[![alt text](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark)](https://github.com/Kyytox/bitcoin_quizz)
+[![alt text](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark)](https://github.com/Kyytox/bitcoin_quizz)
+[![alt text](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark)](https://github.com/Kyytox/bitcoin_quizz)
+
+
+
+
+
+
+
+
 <p float="center">
   <a href="https://github.com/Kyytox/bitcoin_quizz">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark" width="330" />
