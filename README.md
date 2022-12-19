@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## I'm Kyytox, developer of things and others
 
-## Minimalist Bitcoin 
+## Minimalist Bitcoin
 
-(https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
+![alt text](https://img.shields.io/static/v1?label=&message=Bitcoin&color=Yellow)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyytox&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
