@@ -27,6 +27,7 @@ Minimalist Bitcoin
 ![alt text](https://img.shields.io/static/v1?label=&message=JavaScript&color=yellowgreen)
 ![alt text](https://img.shields.io/static/v1?label=&message=React&color=blue)
 ![alt text](https://img.shields.io/static/v1?label=&message=Flask&color=lightgrey)
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyytox&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
