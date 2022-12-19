@@ -32,13 +32,7 @@ Minimalist Bitcoin
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark&card_width=300)](https://github.com/Kyytox/bitcoin_quizz) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark)](https://github.com/Kyytox/bitcoin_quizz) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark)](https://github.com/Kyytox/bitcoin_quizz)
 
 
-<style>
-a {
-  color: #26b72b;
-}
-</style>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" style="color: red">
   test
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark" />
 </a>
