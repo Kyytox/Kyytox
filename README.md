@@ -20,7 +20,7 @@ I'm Kyytox, developer of things and others
 Minimalist Bitcoin
 
 ![alt text](https://img.shields.io/static/v1?label=&message=Bitcoin&color=yellow)
-![alt text](https://img.shields.io/static/v1?label=&message=Lightning Network&color=yellow)
+![alt text](https://img.shields.io/static/v1?label=&message=Lightning-Network&color=yellow)
 ![alt text](https://img.shields.io/static/v1?label=&message=Python&color=red)
 ![alt text](https://img.shields.io/static/v1?label=&message=JavaScript&color=yellowgreen)
 ![alt text](https://img.shields.io/static/v1?label=&message=React&color=blue)
