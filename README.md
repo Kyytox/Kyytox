@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 <p float="center">
   ### Hi there 👋
+  <br>
   I'm Kyytox, developer of things and others
   <br>
   Minimalist Bitcoin
