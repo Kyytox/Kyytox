@@ -32,7 +32,7 @@ Minimalist Bitcoin
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark&card_width=300)](https://github.com/Kyytox/bitcoin_quizz) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark)](https://github.com/Kyytox/bitcoin_quizz) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark)](https://github.com/Kyytox/bitcoin_quizz)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats" style="width: 100px">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 100px">
   test
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark" />
 </a>
@@ -41,9 +41,9 @@ Minimalist Bitcoin
 </a>
 <a href="https://github.com/Kyytox/bitcoin_quizz">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark" />
-</a>
+</a> -->
 
-<p float="left">
+<p float="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark" width="100" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark" width="100" /> 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark" width="100" />
