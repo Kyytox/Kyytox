@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-<br>
 I'm Kyytox, developer of things and others
 <br>
 Bitcoin minimalist
