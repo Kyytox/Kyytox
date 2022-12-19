@@ -32,7 +32,7 @@ Minimalist Bitcoin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyytox&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+## My projects
 [![alt text](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark)](https://github.com/Kyytox/bitcoin_quizz)
 [![alt text](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=feelings-twitter-ia&theme=dark)](https://github.com/Kyytox/feelings-twitter-ia)
 [![alt text](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=Coin_Centraliz&theme=dark)](https://github.com/Kyytox/Coin_Centraliz)
