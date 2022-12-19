@@ -33,6 +33,10 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyytox&langs_count=8&theme=dark&bg_color=60,200122,6f0000&hide_border=True&text_color=dbdbdb"/>
 </div>
 
+<br>
+<br>
+  
+  
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
