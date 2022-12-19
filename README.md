@@ -13,20 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-I'm Kyytox, developer of things and others
-<br>
-Bitcoin minimalist
-<br><br>
 
-
-![alt text](https://img.shields.io/static/v1?label=&message=Bitcoin&color=yellow)
-![alt text](https://img.shields.io/static/v1?label=&message=Lightning-Network&color=yellow)
-![alt text](https://img.shields.io/static/v1?label=&message=Python&color=red)
-![alt text](https://img.shields.io/static/v1?label=&message=JavaScript&color=yellowgreen)
-![alt text](https://img.shields.io/static/v1?label=&message=React&color=blue)
-![alt text](https://img.shields.io/static/v1?label=&message=Flask&color=lightgrey)
-<br>
+<div id="header" align="center">
+  <h1>Hi there 👋</h1>
+  <h4>I'm Kyytox, developer of things and others</h4>
+  <h4>Bitcoin minimalist</h4>
+  <br>
+  ![alt text](https://img.shields.io/static/v1?label=&message=Bitcoin&color=yellow)
+  ![alt text](https://img.shields.io/static/v1?label=&message=Lightning-Network&color=yellow)
+  ![alt text](https://img.shields.io/static/v1?label=&message=Python&color=red)
+  ![alt text](https://img.shields.io/static/v1?label=&message=JavaScript&color=yellowgreen)
+  ![alt text](https://img.shields.io/static/v1?label=&message=React&color=blue)
+  ![alt text](https://img.shields.io/static/v1?label=&message=Flask&color=lightgrey)
+  <br>
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyytox&langs_count=8&theme=dark&bg_color=60,200122,6f0000&hide_border=True&text_color=dbdbdb)
 
