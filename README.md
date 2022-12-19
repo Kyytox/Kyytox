@@ -29,7 +29,7 @@ Bitcoin minimalist
 ![alt text](https://img.shields.io/static/v1?label=&message=Flask&color=lightgrey)
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyytox&langs_count=8&theme=dark&&bg_color=60,333333,dd1818)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyytox&langs_count=8&theme=dark&&bg_color=60,200122,6f0000)
 
 
 ## My projects
