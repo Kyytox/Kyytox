@@ -29,29 +29,27 @@ Minimalist Bitcoin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyytox&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark&card_width=300)](https://github.com/Kyytox/bitcoin_quizz) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark)](https://github.com/Kyytox/bitcoin_quizz) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark)](https://github.com/Kyytox/bitcoin_quizz)
-
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats" style="width: 100px">
-  test
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark" />
-</a>
-<a href="https://github.com/Kyytox/bitcoin_quizz">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark" />
-</a>
-<a href="https://github.com/Kyytox/bitcoin_quizz">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark" />
-</a> -->
-
 <p float="center">
   <a href="https://github.com/Kyytox/bitcoin_quizz">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark" width="330" />
   </a>
-  <a href="https://github.com/Kyytox/bitcoin_quizz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark" width="330" /> 
+  <a href="https://github.com/Kyytox/feelings-twitter-ia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=feelings-twitter-ia&theme=dark" width="330" /> 
   </a>
-  <a href="https://github.com/Kyytox/bitcoin_quizz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark" width="330" />
+  <a href="https://github.com/Kyytox/Coin_Centraliz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=Coin_Centraliz&theme=dark" width="330" />
+  </a>
+</p>
+
+<p float="center">
+  <a href="https://github.com/Kyytox/vinyls_dub_scrap">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=vinyls_dub_scrap&theme=dark" width="330" />
+  </a>
+  <a href="https://github.com/Kyytox/codewars-user-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=codewars-user-stats&theme=dark" width="330" /> 
+  </a>
+  <a href="https://github.com/Kyytox/kytox-dev-tools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=kytox-dev-tools&theme=dark" width="330" />
   </a>
 </p>
 
