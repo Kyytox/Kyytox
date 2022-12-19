@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <br>
 I'm Kyytox, developer of things and others
 <br>
-Minimalist Bitcoin
+Bitcoin minimalist
 <br><br>
 
 
