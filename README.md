@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Kyytox/Kyytox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p float="center">
+  ### Hi there 👋
+  I'm Kyytox, developer of things and others
+  <br>
+  Minimalist Bitcoin
+</p>
 
-I'm Kyytox, developer of things and others
-<br>
-Minimalist Bitcoin
 
 ![alt text](https://img.shields.io/static/v1?label=&message=Bitcoin&color=yellow)
 ![alt text](https://img.shields.io/static/v1?label=&message=Lightning-Network&color=yellow)
