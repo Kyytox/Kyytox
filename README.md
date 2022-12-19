@@ -15,13 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Kyytox, developer of things and others
-
-## Minimalist Bitcoin
+I'm Kyytox, developer of things and others
+<br>
+Minimalist Bitcoin
 
 ![alt text](https://img.shields.io/static/v1?label=&message=Bitcoin&color=yellow)
+![alt text](https://img.shields.io/static/v1?label=&message=Lightning Network&color=yellow)
+![alt text](https://img.shields.io/static/v1?label=&message=Python&color=red)
+![alt text](https://img.shields.io/static/v1?label=&message=JavaScript&color=yellowgreen)
+![alt text](https://img.shields.io/static/v1?label=&message=React&color=blue)
+![alt text](https://img.shields.io/static/v1?label=&message=Flask&color=lightgrey)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyytox&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz)](https://github.com/Kyytox/bitcoin_quizz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark)](https://github.com/Kyytox/bitcoin_quizz)
