@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p text="center">
-  ### Hi there 👋
-  <br>
-  I'm Kyytox, developer of things and others
-  <br>
-  Minimalist Bitcoin
-</p>
+
+### Hi there 👋
+<br>
+I'm Kyytox, developer of things and others
+<br>
+Minimalist Bitcoin
+
 
 
 ![alt text](https://img.shields.io/static/v1?label=&message=Bitcoin&color=yellow)
