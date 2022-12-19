@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?label=&message=React&color=blue"/>
   <img src="https://img.shields.io/static/v1?label=&message=Flask&color=lightgrey"/>
   <br>
+  <br>
 </div>
 
 <div align="center">
