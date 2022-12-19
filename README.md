@@ -44,9 +44,9 @@ Minimalist Bitcoin
 </a> -->
 
 <p float="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark" width="100" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark" width="100" /> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark" width="100" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark" width="500" /> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark" width="500" />
 </p>
 
 
