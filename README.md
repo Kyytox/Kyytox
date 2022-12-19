@@ -31,39 +31,11 @@ Minimalist Bitcoin
 
 
 [![alt text](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark)](https://github.com/Kyytox/bitcoin_quizz)
-[![alt text](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark)](https://github.com/Kyytox/bitcoin_quizz)
-[![alt text](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark)](https://github.com/Kyytox/bitcoin_quizz)
-[![alt text](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark)](https://github.com/Kyytox/bitcoin_quizz)
-
-
-
-
-
-
-
-
-<p float="center">
-  <a href="https://github.com/Kyytox/bitcoin_quizz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=bitcoin_quizz&theme=dark" width="330" />
-  </a>
-  <a href="https://github.com/Kyytox/feelings-twitter-ia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=feelings-twitter-ia&theme=dark" width="330" /> 
-  </a>
-  <a href="https://github.com/Kyytox/Coin_Centraliz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=Coin_Centraliz&theme=dark" width="330" />
-  </a>
-</p>
-
-<p float="center">
-  <a href="https://github.com/Kyytox/vinyls_dub_scrap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=vinyls_dub_scrap&theme=dark" width="330" />
-  </a>
-  <a href="https://github.com/Kyytox/codewars-user-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=codewars-user-stats&theme=dark" width="330" /> 
-  </a>
-  <a href="https://github.com/Kyytox/kytox-dev-tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=kytox-dev-tools&theme=dark" width="330" />
-  </a>
-</p>
+[![alt text](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=feelings-twitter-ia&theme=dark)](https://github.com/Kyytox/feelings-twitter-ia)
+[![alt text](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=Coin_Centraliz&theme=dark)](https://github.com/Kyytox/Coin_Centraliz)
+[![alt text](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=vinyls_dub_scrap&theme=dark)](https://github.com/Kyytox/vinyls_dub_scrap)
+[![alt text](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=codewars-user-stats&theme=dark)](https://github.com/Kyytox/codewars-user-stats)
+[![alt text](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=kytox-dev-tools&theme=dark)](https://github.com/Kyytox/kytox-dev-tools)
+[![alt text](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=Portfolio&theme=dark)](https://github.com/Kyytox/Portfolio)
 
 
