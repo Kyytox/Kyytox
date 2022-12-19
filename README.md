@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <h4>I'm Kyytox, developer of things and others</h4>
   <h4>Bitcoin minimalist</h4>
   <br>
-  ![alt text](https://img.shields.io/static/v1?label=&message=Bitcoin&color=yellow)
+  <p>![alt text](https://img.shields.io/static/v1?label=&message=Bitcoin&color=yellow)</p>
   ![alt text](https://img.shields.io/static/v1?label=&message=Lightning-Network&color=yellow)
   ![alt text](https://img.shields.io/static/v1?label=&message=Python&color=red)
   ![alt text](https://img.shields.io/static/v1?label=&message=JavaScript&color=yellowgreen)
