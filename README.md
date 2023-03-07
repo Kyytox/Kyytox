@@ -21,9 +21,6 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/static/v1?label=&message=Bitcoin&color=yellow"/>
   <img src="https://img.shields.io/static/v1?label=&message=Lightning-Network&color=yellow"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Python&color=red"/>
-  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=yellowgreen"/>
-  <img src="https://img.shields.io/static/v1?label=&message=React&color=blue"/>
   <img src="https://img.shields.io/static/v1?label=&message=Flask&color=lightgrey"/>
   <br>
   <br>
