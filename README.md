@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <div id="header" align="center">
-  <h1>Hi there 👋</h1>
+  <h1>Hey 👋</h1>
   <h4>I'm Kyytox, developer of things and others</h4>
   <h4>Bitcoin minimalist</h4>
   <br>
