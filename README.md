@@ -45,10 +45,10 @@ Here are some ideas to get you started:
 [![alt text](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=kytox-dev-tools&theme=dark&bg_color=60,200122,6f0000&hide_border=True)](https://github.com/Kyytox/kytox-dev-tools)
 [![alt text](https://github-readme-stats.vercel.app/api/pin/?username=Kyytox&repo=Portfolio&theme=dark&bg_color=60,200122,6f0000&hide_border=True)](https://github.com/Kyytox/Portfolio)
 
-<br>  
+<!-- <br>  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyytox&langs_count=8&theme=dark&bg_color=60,200122,6f0000&hide_border=True&text_color=dbdbdb"/>
-</div>
+</div> -->
 
 <br>  
 
