@@ -43,10 +43,10 @@
 
 ### Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/Kyytox/bitcoin_quizz)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/Kyytox/app-web-sentiment-twitter-ia)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/Kyytox/Coin_Centraliz)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/Kyytox/codewars-user-stats)
+[![](https://img.shields.io/badge/-🧬%20Bitcoin%20Quizz-000)](https://github.com/Kyytox/bitcoin_quizz)
+[![](https://img.shields.io/badge/-🦠%20Sentiment%20Twitter%20Ia-000)](https://github.com/Kyytox/app-web-sentiment-twitter-ia)
+[![](https://img.shields.io/badge/-📝%20Coin%20Centraliz-000)](https://github.com/Kyytox/Coin_Centraliz)
+[![](https://img.shields.io/badge/-🔬%20Codewars User Stats-000)](https://github.com/Kyytox/codewars-user-stats)
 [![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/Kyytox/vinyls_dub_scrap)
 [![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/Kyytox/kytox-dev-tools)
 [![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/Kyytox/Portfolio)
