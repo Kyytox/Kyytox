@@ -1,3 +1,4 @@
+
 <div id="header" align="center">
   <h1>Hey 👋</h1>
   <h4>I'm Kyytox, developer of things and others</h4>
@@ -31,7 +32,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=Bitcoin&logoColor=#F7931A)
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-000?&logo=Bitcoin&logoColor=#F7931A)
 
 ### Technologies
 
