@@ -3,7 +3,7 @@
   <h1>Hey 👋</h1>
   <h4>I'm Kyytox, developer of things and others</h4>
   <h4>Bitcoin minimalist</h4>
-  ![Bitcoin Minimalist](https://img.shields.io/badge/-Bitcoin-000?&logo=Bitcoin&logoColor=#F7931A)
+ ![Bitcoin Minimalist](https://img.shields.io/badge/-Bitcoin-000?&logo=Bitcoin&logoColor=#F7931A)
   <br>
   <br>
 </div>
@@ -38,7 +38,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=#000000)
 
 
-![MUI](https://img.shields.io/badge/-Material-UI-000?&logo=MUI&logoColor=#007FFF)
+![Material-UI](https://img.shields.io/badge/-MUI-000?&logo=MUI&logoColor=#007FFF)
 
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=#000000)
 
