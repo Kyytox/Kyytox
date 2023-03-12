@@ -3,10 +3,7 @@
   <h1>Hey 👋</h1>
   <h4>I'm Kyytox, developer of things and others</h4>
   <h4>Bitcoin minimalist</h4>
-  <br>
-  <img src="https://img.shields.io/static/v1?label=&message=Bitcoin&color=yellow"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Lightning-Network&color=yellow"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Flask&color=lightgrey"/>
+  ![Bitcoin Minimalist](https://img.shields.io/badge/-Bitcoin-000?&logo=Bitcoin&logoColor=#F7931A)
   <br>
   <br>
 </div>
@@ -32,22 +29,29 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Bitcoin](https://img.shields.io/badge/-Bitcoin-000?&logo=Bitcoin&logoColor=#F7931A)
 
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=#000000)
+
+
+![Material-UI](https://img.shields.io/badge/-Material-UI-000?&logo=MUI&logoColor=#007FFF)
+
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=#000000)
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=#4169E1)
+
 
 ### Projects
 
+[![](https://img.shields.io/badge/-🗺%20Portfolio-000)](https://github.com/Kyytox/Portfolio)
 [![](https://img.shields.io/badge/-🧬%20Bitcoin%20Quizz-000)](https://github.com/Kyytox/bitcoin_quizz)
 [![](https://img.shields.io/badge/-🦠%20Sentiment%20Twitter%20Ia-000)](https://github.com/Kyytox/app-web-sentiment-twitter-ia)
 [![](https://img.shields.io/badge/-📝%20Coin%20Centraliz-000)](https://github.com/Kyytox/Coin_Centraliz)
-[![](https://img.shields.io/badge/-🔬%20Codewars User Stats-000)](https://github.com/Kyytox/codewars-user-stats)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/Kyytox/vinyls_dub_scrap)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/Kyytox/kytox-dev-tools)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/Kyytox/Portfolio)
+[![](https://img.shields.io/badge/-🔬%20Codewars%20User%20Stats-000)](https://github.com/Kyytox/codewars-user-stats)
+[![](https://img.shields.io/badge/-🛰%20Vinyls%20Dub%20Scrap-000)](https://github.com/Kyytox/vinyls_dub_scrap)
+[![](https://img.shields.io/badge/-🔊%20Tools%20dev-000)](https://github.com/Kyytox/kytox-dev-tools)
 
