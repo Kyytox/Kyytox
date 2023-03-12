@@ -38,7 +38,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=#000000)
 
 
-![Material-UI](https://img.shields.io/badge/-Material-UI-000?&logo=MUI&logoColor=#007FFF)
+![MUI](https://img.shields.io/badge/-Material-UI-000?&logo=MUI&logoColor=#007FFF)
 
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=#000000)
 
