@@ -22,7 +22,7 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=#000000)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Sreamlit](https://img.shields.io/badge/-PostgreSQL-000?&logo=Streamlit&logoColor=#FF4B4B)
+![Sreamlit](https://img.shields.io/badge/-Streamlit-000?&logo=Streamlit&logoColor=#FF4B4B)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=#4169E1)
 ![MUI](https://img.shields.io/badge/-MUI-000?&logo=MUI&logoColor=#007FFF)
 
