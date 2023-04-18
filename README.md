@@ -1,8 +1,8 @@
 
 <div id="header" align="center">
   <h1>Hey 👋</h1>
-  <h4>I'm Kyytox, developer of things and others</h4>
-  <h4>Bitcoin minimalist</h4>
+  <h3>I'm Kyytox</h3>
+  <h4>Data Engineer - Bitcoin minimalist - Dub Selecta</h4>
 </div>
 
 <!-- <br>  
