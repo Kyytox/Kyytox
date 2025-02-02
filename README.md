@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <h1>Hey 👋</h1>
   <h3>I'm Kytox</h3>
-  <h4>Data Engineer - Bitcoin minimalist - Dub Selecta</h4>
+  <h4>Data Engineer | Bitcoin minimalist | Dub Selecta</h4>
 </div>
 
 <!-- <br>  
