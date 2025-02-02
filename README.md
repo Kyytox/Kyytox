@@ -10,21 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyytox&langs_count=8&theme=dark&bg_color=60,200122,6f0000&hide_border=True&text_color=dbdbdb"/>
 </div>
 -->
-### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-
-<!--![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
--->
-
-### Technologies
-
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=#000000)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Sreamlit](https://img.shields.io/badge/-Streamlit-000?&logo=Streamlit&logoColor=#FF4B4B)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=#4169E1)
-![MUI](https://img.shields.io/badge/-MUI-000?&logo=MUI&logoColor=#007FFF)
 
 <!--### Projects
 
